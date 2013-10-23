@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SQL2012.NativeClient</id>
+    <version>2011.110.3000.0</version>
+    <title>Microsoft SQL Server 2012 Native Client</title>
+    <authors>Microsoft</authors>
+    <owners>Taliesin Sisson</owners>
+    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=35580</projectUrl>
+    <iconUrl>https://github.com/taliesins/SQL2012.NativeClient/raw/master/SQL2012.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Microsoft SQL Server 2012 Native Client SP1 (SQL Server Native Client) is a single dynamic-link library (DLL) containing both the SQL OLE DB provider and SQL ODBC driver. It contains run-time support for applications using native-code APIs (ODBC, OLE DB and ADO) to connect to Microsoft SQL Server 2000, 2005, 2008 or 2012. SQL Server Native Client should be used to create new applications or enhance existing applications that need to take advantage of new SQL Server 2012 features. This redistributable installer for SQL Server Native Client installs the client components needed during run time to take advantage of new SQL Server 2012 features, and optionally installs the header files needed to develop an application that uses the SQL Server Native Client API.</description>
+    <summary>Microsoft SQL Server 2012 Feature Pack SP1
+
+      Microsoft SQL Server 2012 Native Client SP 1 (SQL Server Native Client) is a single dynamic-link library (DLL) containing both the SQL OLE DB provider and SQL ODBC driver. It contains run-time support for applications using native-code APIs (ODBC, OLE DB and ADO) to connect to Microsoft SQL Server 2000, 2005, 2008 or 2012. SQL Server Native Client should be used to create new applications or enhance existing applications that need to take advantage of new SQL Server 2012 features. This redistributable installer for SQL Server Native Client installs the client components needed during run time to take advantage of new SQL Server 2012 features, and optionally installs the header files needed to develop an application that uses the SQL Server Native Client API.</summary>
+    <releaseNotes />
+    <tags>SQL SQL2012 Native Client ODBC OLEDB</tags>
+  </metadata>
+</package>
