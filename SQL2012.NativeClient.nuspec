@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>SQL2012.NativeClient</id>
+    <id>sql2012.nativeclient</id>
     <version>2011.110.3000.1</version>
     <title>Microsoft SQL Server 2012 Native Client</title>
     <authors>Microsoft</authors>
