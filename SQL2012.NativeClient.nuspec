@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>sql2012.nativeclient</id>
-    <version>2011.110.3000.1</version>
+    <version>2011.110.3000.2</version>
     <title>Microsoft SQL Server 2012 Native Client</title>
     <authors>Microsoft</authors>
     <owners>Taliesin Sisson</owners>
