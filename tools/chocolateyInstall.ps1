@@ -2,11 +2,11 @@ $params = @{
   packageName = 'sql2012.nativeclient';
   fileType = 'msi';
   silentArgs = ' /qb IACCEPTSQLNCLILICENSETERMS=YES';
-  url = 'http://download.microsoft.com/download/F/E/D/FEDB200F-DE2A-46D8-B661-D019DFE9D470/ENU/x86/sqlncli.msi';
-  checksum = '9BB7B584ECD2CBE480607C4A51728693B2C99C6BC38FA9213B5B54A13C34B7E2';
+  url = 'http://download.microsoft.com/download/B/E/D/BED73AAC-3C8A-43F5-AF4F-EB4FEA6C8F3A/ENU/x86/sqlncli.msi';
+  checksum = '128A8AD1F93DC07D213FF4670A33A967457B498B03BF7F82AFECA41EDA7BFE1E';
   checksumType = 'Sha256';
-  url64bit = 'http://download.microsoft.com/download/F/E/D/FEDB200F-DE2A-46D8-B661-D019DFE9D470/ENU/x64/sqlncli.msi';
-  checksum64 = '1364BF4C37A09CE3C87B029A2DB4708F066074B1EAA22AA4E86D437B7B05203D';
+  url64bit = 'http://download.microsoft.com/download/B/E/D/BED73AAC-3C8A-43F5-AF4F-EB4FEA6C8F3A/ENU/x64/sqlncli.msi';
+  checksum64 = '6737269AD63771C15B6E249209BEE0EC2AD1231503EFD9E1F1A7213EE7E70886';
   checksumType64 = 'Sha256'
 }
 
