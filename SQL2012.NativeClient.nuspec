@@ -2,11 +2,11 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>sql2012.nativeclient</id>
-    <version>9911.0.5058.0</version>
+    <version>9911.0.7001.0</version>
     <title>Microsoft SQL Server 2012 Native Client</title>
     <authors>Microsoft</authors>
     <owners>Taliesin Sisson</owners>
-    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=43339</projectUrl>
+    <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=50402</projectUrl>
     <iconUrl>https://github.com/taliesins/SQL2012.NativeClient/raw/master/SQL2012.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Microsoft SQL Server 2012 Native Client SP2 (SQL Server Native Client) is a single dynamic-link library (DLL) containing both the SQL OLE DB provider and SQL ODBC driver. It contains run-time support for applications using native-code APIs (ODBC, OLE DB and ADO) to connect to Microsoft SQL Server 2000, 2005, 2008 or 2012. SQL Server Native Client should be used to create new applications or enhance existing applications that need to take advantage of new SQL Server 2012 features. This redistributable installer for SQL Server Native Client installs the client components needed during run time to take advantage of new SQL Server 2012 features, and optionally installs the header files needed to develop an application that uses the SQL Server Native Client API.</description>
