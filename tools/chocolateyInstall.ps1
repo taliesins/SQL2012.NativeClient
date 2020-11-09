@@ -1,7 +1,7 @@
 $params = @{
   packageName = 'sql2012.nativeclient';
   installerType = 'msi';
-  silentArgs = '/qb IACCEPTSQLNCLILICENSETERMS=YES';
+  silentArgs = '/qn IACCEPTSQLNCLILICENSETERMS=YES';
   url = 'https://download.microsoft.com/download/B/E/D/BED73AAC-3C8A-43F5-AF4F-EB4FEA6C8F3A/ENU/x86/sqlncli.msi';
   checksum='128a8ad1f93dc07d213ff4670a33a967457b498b03bf7f82afeca41eda7bfe1e';
   checksumType='Sha256';
