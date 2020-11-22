@@ -2,12 +2,13 @@ $params = @{
   packageName = 'sql2012.nativeclient';
   installerType = 'msi';
   silentArgs = '/qb IACCEPTSQLNCLILICENSETERMS=YES';
-  url = 'http://download.microsoft.com/download/3/A/6/3A632674-A016-4E31-A675-94BE390EA739/ENU/x86/sqlncli.msi';
-  checksum='970D69A53003E41A2B6219FC664222A725C7D54EB50BD6E96E9A3C88AA40EDA6';
+  url = 'https://download.microsoft.com/download/F/3/C/F3C64941-22A0-47E9-BC9B-1A19B4CA3E88/ENU/x86/sqlncli.msi';
+  checksum='5065C333B1E31F18F4015774436BB46A422D865E56D5683C1BA0A0C83BC39FDA';
   checksumType='Sha256';
-  url64 = 'http://download.microsoft.com/download/3/A/6/3A632674-A016-4E31-A675-94BE390EA739/ENU/x64/sqlncli.msi';
-  checksum64 = '214A81E6BE643A79E38F3134B870C4AF349AB0ABC1497BC3E97D4EADD05241FF';
+  url64 = 'https://download.microsoft.com/download/F/3/C/F3C64941-22A0-47E9-BC9B-1A19B4CA3E88/ENU/x64/sqlncli.msi';
+  checksum64 = '3F48F58DCF9855B4C0F7C23C946A67AE0800ABD2E561216EB60E623B61A30FE1';
   checksumType64 = 'Sha256';
   validExitCodes = @(0,3010)
 }
 Install-ChocolateyPackage @params
+
